@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "create-react-ap": "^1.0.1",
+    "express": "^4.18.1",
+    "firebase": "^9.9.0",
+    "firebaseui": "^6.0.1",
+    "http-server": "^14.1.1",
+    "mongodb": "^4.7.0",
+    "react-bootstrap": "^2.4.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "name": "bad-bank-with-react",
+  "version": "1.0.0",
+  "main": "withdraw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
